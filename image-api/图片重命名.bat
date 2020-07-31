@@ -8,6 +8,6 @@ for %%n in (*.webp) do (
 
 set /A a+=1
 
-ren "%%n" "!a!.webp"
+ren "%%n" "!a!-min.webp"
 
 )
