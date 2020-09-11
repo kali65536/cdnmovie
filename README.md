@@ -1,1 +1,1 @@
-# https://cdn.jsdelivr.net/gh/kali65536/cdnmovie@master/
+# https://cdn.jsdelivr.net/gh/kali65536/cdnmovie@master/文件夹名/文件名
